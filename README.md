@@ -7,6 +7,8 @@ This project is a complex engineering problem in which complete network for soft
 2. DHCP, DNS, FTP, HTTP, and Email services. 
 3. Managing IP addresses of each devices in the network.
 
+![](./1.PNG)
+
 
 ##### Talha Rehman ######
 ##### B.Sc. Electrical Engineering ######
